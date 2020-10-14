@@ -10,7 +10,7 @@ Startup Developer
   * React Native
   * HTML
   * CSS
-  * Javascript
+  * Flutter (loading...)
   
 </details>
 
@@ -20,6 +20,7 @@ Startup Developer
   * Node JS
   * Express JS
   * Firebase
+  * GCP
   * MongoDB
   
 </details>
