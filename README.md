@@ -41,8 +41,8 @@ Startup Developer
   <summary><strong>Career - Ailtos Co., Ltd</strong> (2018. 8 ~ 2020. 1)</summary>
   
   - as Web, App Developer
-  - Playpick
-  - Busyless
+  - Playpick (Front-End, Back-End)
+  - Busyless (Front-End, Back-End)
   
 </details>
 
@@ -50,8 +50,8 @@ Startup Developer
   <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ )</summary>
   
   * as Web Service Developer
-  * [CEEDUP Inc.](https://ceedup.com)
-  * Heritage Monitor
+  * [CEEDUP Inc.](https://ceedup.com) (Front-End, Back-End)
+  * Heritage Monitor (Front-End, Back-End)
   
 </details>
 
