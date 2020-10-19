@@ -56,9 +56,8 @@ Startup Developer
 </details>
 
 <details>
-  <summary><strong>Club - Peacemain in KNU</strong> (2020. 7 ~ )</summary>
+  <summary><strong>Club - <a href="https://github.com/peacemain-club">Peacemain</a> in KNU</strong> (2020. 7 ~ )</summary>
   
   * as Club Leader
-  * [Peacemain](https://github.com/peacemain-club)
   
 </details>
