@@ -17,7 +17,6 @@ Startup Developer
 <details>
   <summary><strong>Back-End</strong></summary>
   
-  * Node JS
   * Express JS
   * Firebase
   * GCP
