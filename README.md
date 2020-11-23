@@ -10,6 +10,7 @@ Startup Developer
   * React Native
   * HTML
   * CSS
+  * Styled Component
   * Flutter (loading...)
   
 </details>
