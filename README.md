@@ -33,7 +33,7 @@ Startup Developer
   <summary><strong>School - KNU</strong> (2015. 3 ~ )</summary>
   
   * Electronic Engineering
-  * GPA : 3.81/4.3 (94.1/100)
+  * GPA : 3.78/4.3 (94.1/100)
   
 </details>
 
