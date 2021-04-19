@@ -6,7 +6,7 @@ Startup Developer
 <details>
   <summary><strong>Front-End</strong></summary>
   
-  * React JS 
+  * React JS
   * React Native
   * HTML
   * CSS
@@ -21,7 +21,6 @@ Startup Developer
   * Express JS
   * Firebase
   * GCP
-  * MongoDB
   
 </details>
 
@@ -47,7 +46,7 @@ Startup Developer
 </details>
 
 <details>
-  <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ )</summary>
+  <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ 2021.3)</summary>
   
   * as Web Service Developer
   * [CEEDUP Inc.](https://ceedup.com) (Front-End, Back-End)
