@@ -11,7 +11,6 @@ Startup Developer
   * HTML
   * CSS
   * Styled Component
-  * Flutter (loading...)
   
 </details>
 
