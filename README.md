@@ -59,3 +59,7 @@ Startup Developer
   * as Club Leader
   
 </details>
+
+<details>
+  <summary><strong>Career - 우아한테크캠프 in 우아한형제들</strong> (2021. 7 ~ 2021. 8)</summary>
+</details>
