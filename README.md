@@ -61,5 +61,5 @@ Startup Developer
 </details>
 
 <details>
-  <summary><strong>Career - 우아한테크캠프 in 우아한형제들</strong> (2021. 7 ~ 2021. 8)</summary>
+  <summary><strong>Career - Woowahan Techcamp in Woowa Brothers Corp.</strong> (2021. 7 ~ 2021. 8)</summary>
 </details>
