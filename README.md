@@ -61,7 +61,7 @@ Startup Developer
 </details>
 
 <details>
-  <summary><strong>Career - Woowahan Techcamp in Woowa Brothers Corp.</strong> (2021. 7 ~ 2021. 8)</summary>
+  <summary><strong>Career - Woowahan Techcamp in  <a href="https://www.woowahan.com/">Woowa Brothers Corp.</a></strong> (2021. 7 ~ 2021. 8)</summary>
   
   * as Full Stack Developer Intern
   
