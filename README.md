@@ -1,27 +1,12 @@
 ### Hello there 👋
 
-Startup Developer
+Frontend Developer
 
 #### Skills
-<details>
-  <summary><strong>Front-End</strong></summary>
-  
-  * React JS
-  * React Native
-  * HTML
-  * CSS
-  * Styled Component
-  
-</details>
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/edegiil)
 
-<details>
-  <summary><strong>Back-End</strong></summary>
-  
-  * Express JS
-  * Firebase
-  * GCP
-  
-</details>
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Front-End&badges=React,React-Native)](https://github.com/edegiil)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Back-End&badges=Express,GCP,Firebase)](https://github.com/edegiil)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -66,3 +51,6 @@ Startup Developer
   * as Full Stack Developer Intern
   
 </details>
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=edegiil&repo=edegiil.github.io)](https://github.com/edegiil/edegiil.github.io)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=woowa-techcamp-2021&repo=store-2)](https://github.com/woowa-techcamp-2021/store-2)
