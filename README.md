@@ -3,7 +3,6 @@
 Frontend Developer
 
 #### Skills
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/edegiil)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Front-End&badges=React,React-Native)](https://github.com/edegiil)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Back-End&badges=Express,GCP,Firebase)](https://github.com/edegiil)
@@ -11,6 +10,20 @@ Frontend Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Experience
+
+<details>
+  <summary><strong>Career - Pathfinder in <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2021. 12 ~ 2022. 2)</summary>
+  
+  * as Frontend Engineer Intern
+  
+</details>
+
+<details>
+  <summary><strong>Career - Woowahan Techcamp in  <a href="https://www.woowahan.com/">Woowa Brothers Corp.</a></strong> (2021. 7 ~ 2021. 8)</summary>
+  
+  * as Full Stack Developer Intern
+  
+</details>
 
 <details>
   <summary><strong>School - KNU</strong> (2015. 3 ~ )</summary>
@@ -45,12 +58,3 @@ Frontend Developer
   
 </details>
 
-<details>
-  <summary><strong>Career - Woowahan Techcamp in  <a href="https://www.woowahan.com/">Woowa Brothers Corp.</a></strong> (2021. 7 ~ 2021. 8)</summary>
-  
-  * as Full Stack Developer Intern
-  
-</details>
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=edegiil&repo=edegiil.github.io)](https://github.com/edegiil/edegiil.github.io)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=woowa-techcamp-2021&repo=store-2)](https://github.com/woowa-techcamp-2021/store-2)
