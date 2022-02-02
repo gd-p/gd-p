@@ -34,20 +34,20 @@ Frontend Developer
 </details>
 
 <details>
-  <summary><strong>Career - Ailtos Co., Ltd</strong> (2018. 8 ~ 2020. 1)</summary>
-  
-  - as Web, App Developer
-  - Playpick (Front-End, Back-End)
-  - Busyless (Front-End, Back-End)
-  
-</details>
-
-<details>
   <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ 2021.3)</summary>
   
   * as Web Service Developer
   * [CEEDUP Inc.](https://ceedup.com) (Front-End, Back-End)
   * Heritage Monitor (Front-End, Back-End)
+  
+</details>
+
+<details>
+  <summary><strong>Career - Ailtos Co., Ltd</strong> (2018. 8 ~ 2020. 1)</summary>
+  
+  - as Web, App Developer
+  - Playpick (Front-End, Back-End)
+  - Busyless (Front-End, Back-End)
   
 </details>
 
