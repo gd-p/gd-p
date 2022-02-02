@@ -26,15 +26,15 @@ Frontend Developer
 </details>
 
 <details>
-  <summary><strong>School - KNU</strong> (2015. 3 ~ )</summary>
+  <summary><strong>School - KNU</strong> (2015. 3 ~ 2022. 2)</summary>
   
   * Electronic Engineering
-  * GPA : 3.78/4.3 (93.8/100)
+  * GPA : 3.69/4.3 (92.9/100)
   
 </details>
 
 <details>
-  <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ 2021.3)</summary>
+  <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ 2021. 3)</summary>
   
   * as Web Service Developer
   * [CEEDUP Inc.](https://ceedup.com) (Front-End, Back-End)
