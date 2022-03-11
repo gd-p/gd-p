@@ -12,6 +12,13 @@ Frontend Developer
 #### Experience
 
 <details>
+  <summary><strong>Career - ???</strong> (2021. ?? ~ )</summary>
+  
+  * as Software Engineer
+  
+</details>
+
+<details>
   <summary><strong>Career - Pathfinder in <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2021. 12 ~ 2022. 2)</summary>
   
   * as Frontend Engineer Intern
