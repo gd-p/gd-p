@@ -12,7 +12,7 @@ Frontend Developer
 #### Experience
 
 <details>
-  <summary><strong>Career - ???</strong> (2022. ?? ~ )</summary>
+  <summary><strong>Career - ???</strong> (2022. 4 ~ )</summary>
   
   * as Software Engineer
   
