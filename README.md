@@ -4,8 +4,10 @@ Frontend Developer
 
 #### Skills
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Front-End&badges=React,React-Native)](https://github.com/edegiil)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Back-End&badges=Express,GCP,Firebase)](https://github.com/edegiil)
+- React, React Native, Typescript
+- Redux, Recoil, React Query
+- Gatsby, Storybook
+- Express, Jest, Google Cloud Platform
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
