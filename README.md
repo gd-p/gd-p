@@ -14,7 +14,7 @@ Frontend Developer
 #### Experience
 
 <details>
-  <summary><strong>Career - ???</strong> (2022. 4 ~ )</summary>
+  <summary><strong>Career - <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2022. 4 ~ )</summary>
   
   * as Software Engineer
   
