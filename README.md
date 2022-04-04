@@ -35,7 +35,7 @@ Frontend Developer
 </details>
 
 <details>
-  <summary><strong>School - KNU</strong> (2015. 3 ~ 2022. 2)</summary>
+  <summary><strong>School - KNU</strong> (2015. 3 ~ 2022. 8)</summary>
   
   * Electronic Engineering
   * GPA : 3.69/4.3 (92.9/100)
