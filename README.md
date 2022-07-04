@@ -6,7 +6,7 @@ Frontend Developer
 
 - React, React Native, Typescript
 - Redux, Recoil, React Query
-- Gatsby, Storybook
+- Gatsby, Storybook, NextJS
 - Express, Jest, Google Cloud Platform
 
 #### Experience
