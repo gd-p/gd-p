@@ -1,15 +1,24 @@
-### Hello there 👋
+# Hello there 👋
 
 Frontend Developer
 
-#### Skills
+## Skills
+
+### FE
 
 - React, React Native, Typescript
 - Redux, Recoil, React Query
 - Gatsby, Storybook, NextJS
-- Express, Jest, Google Cloud Platform
+- Flutter
 
-#### Experience
+### BE
+
+- Express, Jest
+- Google Cloud Platform
+- Go, Gin
+- MySQL, Sequelize, MongoDB
+
+## Experience
 
 <details>
   <summary><strong>Career - <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2021. 12 ~ )</summary>
