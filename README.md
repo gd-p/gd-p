@@ -1,37 +1,44 @@
 # Hello there 👋
 
-Frontend Developer
+Software Engineer
 
 ## Skills
 
 ### FE
 
 - React, React Native, Typescript
-- Redux, Recoil, React Query
-- Gatsby, Storybook, NextJS
+- NextJS
+- Storybook
 - Flutter
 
 ### BE
 
-- Express, Jest
+- Express
 - Google Cloud Platform
-- Go, Gin
-- MySQL, Sequelize, MongoDB
 
 ## Experience
 
 <details>
-  <summary><strong>Career - <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2021. 12 ~ )</summary>
+  <summary><strong>Career - <a href="https://www.kakaocorp.com/">Kakao</a></strong> (2024. 6 ~ )</summary>
   
-  * as Frontend Engineer Intern
-  * as Software Engineer
+  * Software Engineer
+  
+</details>
+
+
+<details>
+  <summary><strong>Career - <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2021. 12 ~ 2024. 5)</summary>
+  
+  * Frontend Engineer Intern
+  * Software Engineer
+  * [Karlo.ai](https://karlo.ai)
   
 </details>
 
 <details>
   <summary><strong>Career - Woowahan Techcamp in  <a href="https://www.woowahan.com/">Woowa Brothers Corp.</a></strong> (2021. 7 ~ 2021. 8)</summary>
   
-  * as Full Stack Developer Intern
+  * Full Stack Developer Intern
   
 </details>
 
@@ -46,7 +53,7 @@ Frontend Developer
 <details>
   <summary><strong>Career - CEEDUP Inc.</strong> (2020. 5 ~ 2021. 3)</summary>
   
-  * as Web Service Developer
+  * Web Service Developer
   * [CEEDUP Inc.](https://ceedup.com) (Front-End, Back-End)
   * Heritage Monitor (Front-End, Back-End)
   
@@ -55,16 +62,16 @@ Frontend Developer
 <details>
   <summary><strong>Career - Ailtos Co., Ltd</strong> (2018. 8 ~ 2020. 1)</summary>
   
-  - as Web, App Developer
-  - Playpick (Front-End, Back-End)
-  - Busyless (Front-End, Back-End)
+  - Software Developer
+  - Playpick
+  - Busyless
   
 </details>
 
 <details>
-  <summary><strong>Club - <a href="https://github.com/peacemain-club">Peacemain</a> in KNU</strong> (2020. 7 ~ )</summary>
+  <summary><strong>Club - <a href="https://github.com/peacemain-club">Peacemain</a> in KNU</strong> (2020. 7 ~ 2021.10)</summary>
   
-  * as Club Leader
+  * Club Leader
   
 </details>
 
