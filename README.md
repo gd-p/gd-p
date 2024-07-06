@@ -21,7 +21,7 @@ Software Engineer
 <details>
   <summary><strong>Career - <a href="https://www.kakaocorp.com/">Kakao</a></strong> (2024. 6 ~ )</summary>
   
-  * Software Engineer
+  * AI Software Engineer
   
 </details>
 
@@ -30,7 +30,7 @@ Software Engineer
   <summary><strong>Career - <a href="https://www.kakaobrain.com/">Kakao Brain</a></strong> (2021. 12 ~ 2024. 5)</summary>
   
   * Frontend Engineer Intern
-  * Software Engineer
+  * AI Software Engineer
   * [Karlo.ai](https://karlo.ai)
   
 </details>
