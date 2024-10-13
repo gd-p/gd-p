@@ -2,6 +2,7 @@
 
 Software Engineer
 
-- React, React Native, Typescript, Next.js
-- Fastify, Spring
+- Javascript, Typescript, Kotlin
+- React, React Native, Next.js, Svelte
+- Fastify, Spring Boot
 - Google Cloud Platform
